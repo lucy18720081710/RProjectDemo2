@@ -1,4 +1,4 @@
-#第一章
+#第一章 数据初始化
 install.packages("tm",dependencies=TRUE)
 library(tm)
 install.packages("XML",suggests=TRUE)
